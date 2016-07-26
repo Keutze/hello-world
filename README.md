@@ -1,2 +1,3 @@
 # hello-world
-just a repository
+Hi freind!
+ths is my first file let's go on it
